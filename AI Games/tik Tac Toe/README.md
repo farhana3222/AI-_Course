@@ -59,7 +59,7 @@ Enter your move (row and column): 0 2
 
 ## 🖼️ Screenshot
 
-> Replace the link below with your actual image link from GitHub Issues or Imgur.
+
 
 ![Tic Tac Toe Screenshot](https://user-images.githubusercontent.com/yourusername/yourimageid.png)
 
