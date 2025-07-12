@@ -49,7 +49,6 @@ AI-Tools-Exploration/
 ## 🙏 Acknowledgement
 
 Special thanks to **Razorshi Prozzwal Talukder Sir** for his guidance throughout this AI course.  
-All content, script writing, and slide structure were completed with assistance from **ChatGPT**.
 
 ---
 
