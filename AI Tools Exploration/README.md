@@ -46,12 +46,6 @@ AI-Tools-Exploration/
 
 ---
 
-## 🙏 Acknowledgement
-
-Special thanks to **Razorshi Prozzwal Talukder Sir** for his guidance throughout this AI course.  
-
----
-
 ## 🧠 Topics Covered in Video & Slides
 
 - What is Artificial Intelligence  
@@ -64,4 +58,4 @@ Special thanks to **Razorshi Prozzwal Talukder Sir** for his guidance throughout
 
 ---
 
-📌 *This project demonstrates how AI tools like ChatGPT, Pictory, and Gamma can be combined to create academic deliverables without the need for external design or video editing experience.*
+
