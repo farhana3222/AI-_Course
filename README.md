@@ -1,6 +1,6 @@
 # 🧠 Artificial Intelligence Course Overview
 
-## i.Purpose of this Course
+## 🎯 Purpose of this Course
 This course was designed to introduce the fundamental principles and methodologies of Artificial Intelligence (AI). It aimed to build a strong conceptual base around how AI systems are structured and function, along with how they can be applied to solve both abstract and real-world problems. Emphasis was placed on understanding key terminologies, exploring different types of search strategies, and seeing how AI can enhance decision-making, especially in dynamic domains like games.
 
 ## 📚 What I Learned
