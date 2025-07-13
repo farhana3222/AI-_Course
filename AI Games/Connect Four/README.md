@@ -58,10 +58,12 @@ python connect_four.py
 ## 🖼️ Screenshot
 
 
-![Connect Four AI Screenshot](https://user-images.githubusercontent.com/yourusername/yourimageid.png)
+![Connect Four AI Screenshot]
+
+
+<img width="698" height="734" alt="Screenshot 2025-07-13 213733" src="https://github.com/user-attachments/assets/79604f8d-9781-4e54-a2b2-2e11948d6bca" />
 
 ---
-
 ## 📁 Folder Structure
 
 ```
