@@ -1,41 +1,113 @@
-# 🧠 Artificial Intelligence Course Overview
+# 🤖 Artificial Intelligence (AI) Course 
 
-## 🎯 Purpose of this Course
-This course was designed to introduce the fundamental principles and methodologies of Artificial Intelligence (AI). It aimed to build a strong conceptual base around how AI systems are structured and function, along with how they can be applied to solve both abstract and real-world problems. Emphasis was placed on understanding key terminologies, exploring different types of search strategies, and seeing how AI can enhance decision-making, especially in dynamic domains like games.
 
-## 📚 What I Learned
-
-- AI : agents, environments, and state space search  
-- Uninformed and informed search strategies (BFS, DFS, A*, etc.)  
-- Game algorithms: Minimax and Alpha-Beta Pruning  
-- Real-world applications like NLP, robotics, and knowledge representation  
-- Built practical AI-powered games: Tic Tac Toe, Chess, Connect Four  
+Welcome to the complete summary of my **Artificial Intelligence (AI)** course, part of the **CSE undergraduate curriculum at North East University Bangladesh**.  
+This repository documents everything I explored and implemented over a **6-month journey** — combining theoretical concepts with real-world applications through lab work and intelligent systems development.
 
 ---
 
-## 🧠 Topics Covered
+## 🎯 Course Purpose
 
-- What is AI, Approaches to AI  
-- The State of the Art, Applications of AI  
-- Agents: Goals, Types, and Environments  
-- State Space Search: BFS, DFS, IDS  
-- Well-defined Problems: 8 Puzzle, 8 Queens, N-Queens  
-- Heuristic Search, Best First, A*, Beam, Hill Climbing  
-- AO* Algorithm, Minimax, Alpha-Beta Pruning, Iterative Deepening  
-- Constraint Satisfaction Problems (CSPs)  
-- Adversarial Search  
-- Knowledge Representation  
-- Natural Language Processing (NLP)  
-- Robotics
-----
-## ⏳ Course Duration
-
--The course was conducted over a period of **6 months**
+This course was designed to build a strong foundation in classical and modern AI techniques.  
+From search algorithms to logic systems, from smart game strategies to machine learning basics — we explored how machines can be made to think, learn, and solve problems just like humans.
 
 ---
 
-## 👨‍🏫 Supervisor
+## 🧠 Core Learning Areas
 
-- Course Instructor: **Razorshi Prozzwal Talukder**
-- Lecturer, North East University Bangladesh
+This course was divided into **two key parts**:
+- 📘 **Theory**: Understanding how intelligent systems are modeled, solved, and represented.
+- 🧪 **Lab**: Implementing those ideas in code to build working AI systems and games.
+
+---
+
+## 🔍 Search Algorithms Implemented
+
+- **Breadth-First Search (BFS)**  
+- **Depth-First Search (DFS)**  
+- **Iterative Deepening Search**  
+- **Depth-Limited Search**  
+- **Bidirectional Search**
+
+Each search technique was implemented with sample problems like pathfinding in grids and tree traversal, exploring efficiency in time and space.
+
+---
+
+## 🌟 Heuristic-Based Search
+
+- **Best First Search**  
+- **A\* Algorithm**  
+- **AO\* Algorithm**  
+
+These algorithms helped solve problems more intelligently by using heuristics — reducing unnecessary exploration.
+
+---
+
+## 🧗 Advanced Techniques
+
+- **Hill Climbing** – Greedy ascent approach for local optimization  
+- **Beam Search** – A memory-efficient, heuristic-driven BFS variant  
+
+---
+
+## 🕹️ Game AI Projects
+
+- **Tic Tac Toe**: Implemented with the Minimax algorithm for perfect play  
+- **Chess (Simplified)**: Enhanced with Alpha-Beta Pruning for performance  
+- **Connect Four**: Depth-limited Minimax used for strategic gameplay
+
+---
+
+## 📚 Theoretical Concepts Explored
+
+### 🔸 Constraint Satisfaction Problems (CSPs)
+Solving complex problems under multiple variable constraints — like Sudoku, map coloring, and job scheduling.
+
+### 🔸 Knowledge Representation
+- Propositional and Predicate Logic  
+- CNF/DNF transformations  
+- Logic laws (De Morgan’s, Distributive, etc.)
+
+### 🔸 Optimization & Decision Problems
+- **Branch and Bound Algorithm**  
+- **0/1 Knapsack Problem** using dynamic programming  
+
+### 🔸 Classic Problems
+- Cryptarithmetic puzzles  
+- Task allocation & planning  
+
+---
+
+## 📈 Introduction to Machine Learning
+
+- **Supervised Learning**: Learn from labeled data  
+- **Unsupervised Learning**: Discover patterns in unlabeled data  
+- **Reinforcement Learning**: Learn through reward-based feedback  
+- **Bayesian Networks**: Probabilistic graphical models  
+- **Sampling Methods**: Likelihood weight sampling for inference  
+
+---
+
+## 🗣️ NLP & Robotics Basics
+
+- **Natural Language Processing (NLP)**: Understanding simple sentences and generating structured responses  
+- **Robotics**: Navigation, pathfinding, and environment interaction  
+
+---
+
+## ⏳ Duration
+
+- 🗓️ **6 Months**  
+- Weekly theory classes and lab sessions  
+- Regular assignments and hands-on coding tasks  
+
+---
+
+## 👨‍🏫 Course Details
+
+- **Course Title**: Artificial Intelligence  
+- **Instructor**: *Razorshi Prozzwal Talukder*  
+- **Institution**: *North East University Bangladesh*  
+
+---
 
