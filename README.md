@@ -30,7 +30,7 @@ This course was designed to introduce the fundamental principles and methodologi
 ----
 ## ⏳ Course Duration
 
--The course was conducted over a period of **6 months**, offering a balanced blend of theoretical foundations and practical, hands-on experience. This extended timeframe allowed for deep exploration of AI algorithms, consistent project development, and progressive skill-building in problem-solving with artificial intelligence.
+-The course was conducted over a period of **6 months**
 
 ---
 
