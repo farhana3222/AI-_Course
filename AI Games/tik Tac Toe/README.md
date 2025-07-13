@@ -61,10 +61,9 @@ Enter your move (row and column): 0 2
 
 
 
-![Tic Tac Toe Screenshot](<img width="1787" height="925" alt="Screenshot 2025-07-07 201931" src="https://github.com/user-attachments/assets/4f485e27-bf72-410b-abcc-8dab14c1b5c4" />
-)
+![Tic Tac Toe Screenshot]
 
----
+<img width="1787" height="925" alt="Screenshot 2025-07-07 201931" src="https://github.com/user-attachments/assets/ce11a20e-cd83-4c86-8212-03337043b24e" />
 
 ## 📁 Folder Structure
 
