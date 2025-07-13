@@ -57,9 +57,10 @@ python chess_game.py
 
 ## 🖼️ Screenshot
 
+<img width="490" height="510" alt="Screenshot 2025-07-13 212733" src="https://github.com/user-attachments/assets/cc492380-10ec-47bf-a520-ec816680c10e" />
 
 
-![Chess AI Screenshot](https://user-images.githubusercontent.com/yourusername/yourimageid.png)
+![Chess AI Screenshot]
 
 ---
 
